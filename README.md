@@ -27,8 +27,8 @@
 МІТ
 
 <p align="center">
-  <img src="![photo_2025-09-06_23-14-33](https://github.com/user-attachments/assets/c5199952-114b-4dc6-af08-e13918bfdfd6)" width="300"/>
-  <img src="![photo_2025-09-06_23-14-36](https://github.com/user-attachments/assets/21a9f5fc-cda1-4a2a-88a2-49a1e3c68a4b)" width="300"/>
+  <img src=![photo_2025-09-06_23-14-33](https://github.com/user-attachments/assets/c5199952-114b-4dc6-af08-e13918bfdfd6) width="300"/>
+  <img src=![photo_2025-09-06_23-14-36](https://github.com/user-attachments/assets/21a9f5fc-cda1-4a2a-88a2-49a1e3c68a4b) width="300"/>
 </p>
 
 

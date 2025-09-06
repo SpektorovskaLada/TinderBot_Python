@@ -19,8 +19,8 @@
 - /gpt - поставити запитання ChatGPT
 
 ## Використані технології
--Python
--python-telegram-bot (Telegram Bot API)
+- Python
+- python-telegram-bot (Telegram Bot API)
 - OpenAI API
 
 ## Ліцензія

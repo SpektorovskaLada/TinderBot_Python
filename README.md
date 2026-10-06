@@ -1,31 +1,31 @@
 # 🚀 Telegram + ChatGPT + Tinder Bot
 
-Цей бот поєднує в собі зручність Telegram, потужність ChatGPT і трохи фанового вайбу Tinder.
+This bot combines the convenience of Telegram, the power of ChatGPT, and a fun Tinder vibe.
 
-## 😏 Можливості
-- Генерація Tinder-профілю за вашим описом 😎
-- Написання цікавих та інтригуючих повідомлень для знайомства 🤭
-- Автоматичне листування від вашого імені ✍️
-- Тренування у листуванні з чат-ботом 🗨️
-- Доступ до ChatGPT прямо в Telegram ⚡
+## 😏 Features
+- Generate a Tinder profile based on your description 😎
+- Write engaging and intriguing icebreakers 🤭
+- Automate messaging on your behalf ✍️
+- Practice chatting with an AI bot 🗨️
+- Access ChatGPT directly within Telegram ⚡
 
-## 🤩 Команди
-- /start - головне меню бота 🧐
-- /profile - згенерувати Tinder-профіль 😎
-- /opener - придумати повідомлення для знайомства 🥰
-- /message - бот веде листування від вашого імені 😈
-- /date - листування із зірками 🔥
-- /gpt - поставити запитання ChatGPT 🧠
+## 🤩 Commands
+- `/start` - Main menu 🧐
+- `/profile` - Generate a Tinder profile 😎
+- `/opener` - Get a conversation starter 🥰
+- `/message` - Let the bot chat on your behalf 😈
+- `/date` - Chat with celebrities 🔥
+- `/gpt` - Ask ChatGPT a question 🧠
 
-## 👩‍💻 Використані технології
+## 👩‍💻 Tech Stack
 - Python
 - python-telegram-bot (Telegram Bot API)
 - OpenAI API
 
-## Ліцензія
-МІТ
+## License
+MIT
 
-## 📸 Скріншоти
+## 📸 Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c5199952-114b-4dc6-af08-e13918bfdfd6" width="300"/>
